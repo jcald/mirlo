@@ -1,3 +1,4 @@
+# Class
 class Mirlo::NeuronLayer
   attr_accessor :previous_layer, :size, :activations, :errors, :build_weight_function
 

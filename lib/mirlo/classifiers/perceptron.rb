@@ -1,3 +1,4 @@
+# Porque es modulo y no class
 module Mirlo
   class Perceptron < Classifier
     attr_accessor :learning_rate

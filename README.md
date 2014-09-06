@@ -1,6 +1,7 @@
 # Mirlo
 
 Some Machine Learning algorithms implemented in Ruby.
+Algunos algoritmos de Machine Learning en Ruby.
 
 Currently implemented:
 
